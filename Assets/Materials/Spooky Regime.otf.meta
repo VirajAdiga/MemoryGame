@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5dd23baf9e544354e9c1b295c60ef6d3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spooky Regime
+  fontNames:
+  - Spooky Regime
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 24b0d0e3f9b1fba40a84caef742fe884, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
